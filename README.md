@@ -77,3 +77,4 @@ Devansh Mistry - [Linkedin](https://linkedin.com/in/devansh-vinodkumar-mistry-9b
 ## If you like this project, please do give the star. If you have any suggestions or issues, please drop me a message.
 
 "# Adult-Census-Income-Prediction-main" 
+"# Adult-census" 
